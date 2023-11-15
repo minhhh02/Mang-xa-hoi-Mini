@@ -6,3 +6,7 @@
 - MongoDB
 - Express
 - TypeScript
+
+### moi
+
+-tsc.cmd --init
